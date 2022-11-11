@@ -1,7 +1,6 @@
 # final_project
 
 ![ppt01](https://user-images.githubusercontent.com/95144116/201272933-048228b2-2554-49bd-a78c-b6d920f0b24c.jpg)
-![ppt02](https://user-images.githubusercontent.com/95144116/201272941-8223c4c1-1852-4808-96b7-17b9f0e0cfad.jpg)
 ![ppt03](https://user-images.githubusercontent.com/95144116/201272942-feb70b91-d05f-4bfe-bdab-7ca387c5a620.jpg)
 ![ppt04](https://user-images.githubusercontent.com/95144116/201272944-4013dc4a-a87c-47af-8578-0a789b64f20c.jpg)
 ![ppt05](https://user-images.githubusercontent.com/95144116/201272946-15059946-5e89-48e3-9d31-848db2467eed.jpg)
